@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Hosting Url
+This website is currently hosted on https://videoapp-bceae.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
